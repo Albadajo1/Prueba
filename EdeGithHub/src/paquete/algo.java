@@ -1,5 +1,5 @@
 package paquete;
 
 public class algo {
-	System.
+	System.out.println("Primera Version");
 }
